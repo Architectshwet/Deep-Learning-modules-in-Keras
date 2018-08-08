@@ -2,9 +2,6 @@
 A project about the brief implementation of MLP, CNN, RNN, Unsupervised learning with Autoencoders, ETC, Text analytics using CNN in Python
 
 
-Materials in this repository are for educational purposes.
-Source code is written in Python 3.6+ & Keras ver 2.0+ (Using TensorFlow backend - For advanced topics, basic understanding of TensorFlow mechanics is necessary)
-
 ## 1. Multilayer Perceptrons
 
 ### 1) Basics of MLP
